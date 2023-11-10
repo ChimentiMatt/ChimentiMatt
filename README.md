@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/chimentimatt/chimentimatt/blob/output/github-contribution-grid-snake.svg)
+// ![Snake animation](https://github.com/chimentimatt/chimentimatt/blob/output/github-contribution-grid-snake.svg)
 
 # https://matterofcode.xyz
 
