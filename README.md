@@ -6,7 +6,7 @@
 
 ## 🐱‍🏍 **About Me** 
 
-### ✌ I am a fll stack software developer who holds a **Masters of Science in Software Development** (But degrees arent everything). 
+### ✌ I am a full stack software developer who holds a **Masters of Science in Software Development** (also, degrees arent everything). 
 
 ### 💔 I am looking for work as I was just laid off due to the company I was working with changing their product roadmap and was hit in the third round of layoffs. I have a strong reference and a letter of recommendation from management and I am still thankful for the time I spent at the company.
 
