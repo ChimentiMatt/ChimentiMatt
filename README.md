@@ -6,7 +6,7 @@
 
 ## 🐱‍🏍 **About Me** 
 
-### ✌ I am a software developer focused on **Front End Web Development** who holds a **Masters of Science in Software Development** (March 2024). 
+### ✌ I am a fll stack software developer who holds a **Masters of Science in Software Development** (But degrees arent everything). 
 
 ### 💔 I am looking for work as I was just laid off due to the company I was working with changing their product roadmap and was hit in the third round of layoffs. I have a strong reference and a letter of recommendation from management and I am still thankful for the time I spent at the company.
 
@@ -16,7 +16,7 @@
 ### 🐱‍👤 I have two fur children Olive the dog and Bee the cat and they are the two greatest animals of all time.
 
 ## 👨‍🎓 **Education**
-- ### Masters of Science Software Development | GCU | GPA 3.95 | March 2024
+- ### Masters of Science Software Development | GCU | GPA 3.95
 
 - ### Bridge to Masters of Software Development | GCU | GPA 4.0
 
