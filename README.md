@@ -6,10 +6,7 @@
 
 ## 🐱‍🏍 **About Me** 
 
-### ✌ I am a full stack software developer who holds a **Masters of Science in Software Development** (also, degrees arent everything). 
-
-### 💔 I am looking for work as I was just laid off due to the company I was working with changing their product roadmap and was hit in the third round of layoffs. I have a strong reference and a letter of recommendation from management and I am still thankful for the time I spent at the company.
-
+### ✌ I am a full stack software developer who holds a **Masters of Science in Software Development** (degrees arent everything). 
 
 ### 🧙‍♂️ Outside of the tech world I am a hybrid class of jock nerd meaning I am a nerd who enjoys working out as much as I do DND. At home, my wife and I love to cuddle up and play video games, read, and watch anime as much as we love to use our home gym and push our limits. I firmly believe a heathly body helps make a healthy mind.
 
